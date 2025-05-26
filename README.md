@@ -14,7 +14,7 @@
 <p align="center">
   <a href="mailto:darlitch@al-nsu.ru" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9F%D0%BE%D1%87%D1%82%D0%B0-ffca38?style=flat&logo=ycombinator&logoColor=white" height="25" alt="yandex logo" />
-  </a><a href="https://t.me/darlitch" target="_blank" style="text-decoration: none;">
+  </a><a href="https://t.me/darlitch_al" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="25" alt="telegram logo" />
   </a>
 </p>
